@@ -1,1 +1,10 @@
-* {}
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: 'Battambang', cursive;
+    color: black;
+    background-color: blue;
+    padding: 40px 60px;
+}
