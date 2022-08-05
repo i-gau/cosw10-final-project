@@ -16,7 +16,8 @@ body {
     margin-right: auto;
     height: 100%;
     font-family: 'Orienta', sans-serif;
-    color: black;
+    color: whitesmoke;
+    text-shadow: 1px 1px 10px black;
     font-size: 22px;
     
 }
