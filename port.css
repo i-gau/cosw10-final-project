@@ -56,3 +56,16 @@ img {
     margin-top: 15px;
     margin-bottom: 25px;
 }
+.footer {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Orienta', sans-serif;
+    color: whitesmoke;
+    text-shadow: 1px 1px 10px black;
+    font-size: 10px;
+    text-align: center;
+    background-color: darkslategray;
+}
