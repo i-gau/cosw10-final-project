@@ -23,17 +23,16 @@ body {
     float: left;
     color: whitesmoke;
     text-align: center;
-    padding: 16px 30px;
+    padding: 30px 20px;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 40px;
 }
 
 .topnav-rt {
     float: right;
-    box-shadow: 0px 0px 5px #fff;
 }
-.linkround { 
-    border-radius: 50%;
+.linkround {
+    box-shadow: 0px 0px 5px #fff;
 }
 h1 {
     text-align: center;
