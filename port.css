@@ -1,1 +1,39 @@
-* {}
+* {
+    box-sizing: border-box;
+}
+.bgimg {
+    background-image: url("backimg.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+}
+
+body {
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Orienta', sans-serif;
+    color: black;
+    font-size: 22px;
+    background-color: beige
+}
+.topnavbar {
+    overflow: hidden;
+    position: relative;
+    background-color: darkslategray;
+}
+
+.topnavbar a {
+    float: left;
+    color: whitesmoke;
+    text-align: center;
+    padding: 30px 40px 0px 40px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.topnav-rt {
+    float: right;
+}
