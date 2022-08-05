@@ -5,6 +5,12 @@ body {
     margin: 0;
     font-family: 'Battambang', cursive;
     color: black;
-    background-color: blue;
+    background-color: beige
     padding: 40px 60px;
+}
+h1 a {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
 }
