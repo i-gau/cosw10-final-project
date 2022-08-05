@@ -1,7 +1,15 @@
 * {
     box-sizing: border-box;
 }
-
+#bgvid {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+    filter: blur(7px);
+}
 body {
     margin: 0;
     margin-left: auto;
@@ -23,17 +31,15 @@ body {
     float: left;
     color: whitesmoke;
     text-align: center;
-    padding: 30px 20px;
+    padding: 18px 40px 18px 40px;
     text-decoration: none;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 .topnav-rt {
     float: right;
 }
-.linkround {
-    box-shadow: 0px 0px 5px #fff;
-}
+
 h1 {
     text-align: center;
     padding-top: 60px;
