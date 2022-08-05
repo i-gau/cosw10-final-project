@@ -1,21 +1,12 @@
 * {
     box-sizing: border-box;
 }
-#bgvid {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
-    z-index: -1;
-    filter: blur(7px);
-}
 body {
     margin: 0;
     margin-left: auto;
     margin-right: auto;
     font-family: 'Battambang', cursive;
-    color: black;
+    color: white;
     
     background-color: beige
     
@@ -31,7 +22,7 @@ body {
     float: left;
     color: whitesmoke;
     text-align: center;
-    padding: 18px 40px 18px 40px;
+    padding: 30px 40px 0px 40px;
     text-decoration: none;
     font-size: 20px;
 }
@@ -45,7 +36,7 @@ h1 {
     padding-top: 60px;
     margin-left: auto;
     margin-right: auto;
-    font-size: 30px;
+    font-size: 80px;
 }
 #home {
     text-align: center;
