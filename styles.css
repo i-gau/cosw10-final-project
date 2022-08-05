@@ -33,6 +33,8 @@ body {
 
 .topnav-rt {
     float: right;
+}
+.linkround { 
     border-radius: 50%;
 }
 h1 {
