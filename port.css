@@ -17,7 +17,7 @@ body {
     font-family: 'Orienta', sans-serif;
     color: black;
     font-size: 22px;
-    background-color: beige
+    
 }
 .topnavbar {
     overflow: hidden;
@@ -36,4 +36,11 @@ body {
 
 .topnav-rt {
     float: right;
+}
+h1 {
+    text-align: center;
+    padding-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 80px;
 }
