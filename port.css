@@ -56,6 +56,9 @@ img {
     margin-top: 15px;
     margin-bottom: 25px;
 }
+.img-glow:hover {
+    box-shadow: 0 0 30px rgb(255, 255, 255);
+}
 .footer {
     position: fixed;
     left: 0;
