@@ -5,7 +5,7 @@ body {
     background-image: url("https://raw.githubusercontent.com/i-gau/cosw10-final-project/main/backimg.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
     background-attachment: fixed;
     
 }

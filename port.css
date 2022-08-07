@@ -6,7 +6,7 @@ body {
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
     
     
 }
@@ -54,7 +54,7 @@ h1 {
 }
 img {
     margin-top: 15px;
-    margin-bottom: 0;
+    margin-bottom: 25px;
 }
 .img-glow:hover {
     box-shadow: 0 0 40px rgb(255, 255, 255);
