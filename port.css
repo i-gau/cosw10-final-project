@@ -6,7 +6,7 @@ body {
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
     
     
 }
@@ -54,10 +54,10 @@ h1 {
 }
 img {
     margin-top: 15px;
-    margin-bottom: 25px;
+    margin-bottom: 0;
 }
 .img-glow:hover {
-    box-shadow: 0 0 30px rgb(255, 255, 255);
+    box-shadow: 0 0 40px rgb(255, 255, 255);
 }
 .footer {
     position: fixed;
